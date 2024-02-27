@@ -1,3 +1,6 @@
 [submodule "subrepo/testrepo"]
 	path = subrepo/testrepo
 	url = https://github.com/IndranilNandy/testrepo.git
+[submodule "sub1"]
+	path = sub1
+	url = https://github.com/IndranilNandy/testrepo.git
